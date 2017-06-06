@@ -1,7 +1,7 @@
 {
     "name": "faustbrian/shipcloud-php-client",
     "description": "A ShipCloud Client for PHP",
-    "keywords": ["api", "faustbrian", "faustbrian-shipcloud", "shipcloud", "Brian Faust", "faustbrian"],
+    "keywords": ["api", "shipcloud", "Brian Faust", "faustbrian"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
